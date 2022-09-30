@@ -1,0 +1,9 @@
+.table,th,td {
+    
+    padding: 0s;
+    border: 1px solid black;
+    border-collapse: collapse;
+    font-size: x-large;
+    height: 50px;
+    width: 700px;
+}
